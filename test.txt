@@ -2,4 +2,8 @@ Hello world
 Changes made for first time
 changes made again (third change)
 
+<<<<<<< Updated upstream
 fourth change
+=======
+change in progress
+>>>>>>> Stashed changes
