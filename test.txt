@@ -1,13 +1,1 @@
 Hello world
-Changes made for first time
-changes made again (third change)
-
-<<<<<<< Updated upstream
-fourth change
-=======
-change in progress
->>>>>>> Stashed changes
-
-new changes
-
-changes added on 4 july
