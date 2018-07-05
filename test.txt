@@ -1,4 +1,2 @@
 Hello world
-
-added 1 line
-added 1 more line
+just one line
