@@ -1,1 +1,7 @@
 Hello world
+
+<<<<<<< Updated upstream
+removed some files
+=======
+added some files
+>>>>>>> Stashed changes
