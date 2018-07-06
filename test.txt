@@ -1,7 +1,0 @@
-Hello world
-just one line
-just 2 line
-just 3 line
-just 4 line
-just 5 line
-just 6 line
