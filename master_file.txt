@@ -1,5 +1,7 @@
-master research content
+master research_doc content
 
 bug fixed
 
-added more research files
+added more research docs
+
+more master files
