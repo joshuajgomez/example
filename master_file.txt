@@ -1,4 +1,3 @@
 file remote content
 
-
-added local commit
+added remote content
