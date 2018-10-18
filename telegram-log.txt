@@ -1,0 +1,18 @@
+{ update_id: 673009795,
+  message:
+   { message_id: 933,
+     from:
+      { id: 557247651,
+        is_bot: false,
+        first_name: 'josh',
+        last_name: 'gom3z',
+        username: 'josh_gm3z',
+        language_code: 'en-US' },
+     chat:
+      { id: 557247651,
+        first_name: 'josh',
+        last_name: 'gom3z',
+        username: 'josh_gm3z',
+        type: 'private' },
+     date: 1539828099,
+     text: 'yeah' } }

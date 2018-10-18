@@ -2,9 +2,14 @@
   "name": "demo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "basic_express.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node basic_express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuajgomez/example.git"
   },
   "author": "Joshua Gomez",
   "license": "ISC",
