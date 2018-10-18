@@ -1,3 +1,5 @@
+// https://api.telegram.org/bot584181575:AAHOjDEMEAx1dyzUh5WO2HV_wc-R7kcUVJI/setWebhook?url=https://38246077.ngrok.io
+
 var express = require('express')
 var app = express()
 var bodyParser = require('body-parser')
@@ -25,7 +27,7 @@ app.post('/', function(req, res) {
 	const reply_id = message.message_id
 
 	console.log('[' + user_from + '] ' + message.text)
-	
+
 	var response_msg = 'Yeah, You could say that!'
 
   	if (message.text.toLowerCase().includes(key_josh)) {
